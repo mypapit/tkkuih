@@ -1,5 +1,7 @@
 # tkkuih
-A Demo App for combining TKInter with Tensorflow - an app for recognizing Malay Traditional Kuih 
+A Demo App for combining TKInter with Tensorflow - an app for recognizing Malay Traditional Kuih.
+In this demo, you can select a photo containing traditional Malay kuih (or cakes? desserts? not sure of direct translation), and the model will attempt to identify it.
+
 
 # Who is this app for
 This is a demo app to show students that it is possible and _extremely easy_ to create a GUI Desktop demonstration of Tensorflow-based application using TKinter. 
