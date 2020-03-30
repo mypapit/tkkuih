@@ -23,7 +23,7 @@ Since I wrote this in  a very short time (1 hour) on day-12 of isolation during 
 You can customized your model name and model label under `addOpenFile()` and `detectGate()`
 
 # Model Support
-The demo support any model trained by
+The demo support any (*.pb) model trained by Tensorflow 1.10 - 1.15, with `Inception` and `MobileNet`. Please see the `Configuration options` on how to change input size parameter to suit your model.
 
 
 
