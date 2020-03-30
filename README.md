@@ -27,5 +27,9 @@ You can customized your model name and model label under `addOpenFile()` and `de
 # Model Support
 The demo support any (*.pb) model trained by Tensorflow 1.10 - 1.15, with `Inception` and `MobileNet`. Please see the `Configuration options` on how to change input size parameter to suit your model.
 
+# Youtube Video
+[![Watch the video](https://img.youtube.com/vi/PeMikTXzs1s/maxresdefault.jpg)](https://youtu.be/PeMikTXzs1s)
+
+
 
 
