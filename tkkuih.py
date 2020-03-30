@@ -26,17 +26,13 @@ import os
 from PIL import ImageTk,Image
 from keras.preprocessing.image import load_img
 from keras.preprocessing.image import img_to_array
-from keras.applications.vgg16 import preprocess_input
-from keras.applications.vgg16 import decode_predictions
-from keras.applications.vgg16 import VGG16
 
 
-import argparse
 
 import numpy as np
 import tensorflow as tf
 import time
-import datetime
+
 
 
 
@@ -65,7 +61,7 @@ def load_graph(model_file):
 
 def addOpenFile():
     """
-    ##Tested on ImageNet and MobileNet##    
+    ##Tested on Inception and MobileNet##    
     Please edit model_file to suit your model pb file and label_file to specify your label text file
     
     
@@ -131,7 +127,7 @@ def load_labels(label_file):
 
 def detectGate(graph,label_file,file_name):
   """ 
-  #Modify parameter ini untuk ImageNet
+  #Modify parameter ini untuk Inception
   input_height = 299
   input_width = 299
   
