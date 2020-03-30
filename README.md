@@ -18,6 +18,9 @@ This is a demo app to show students that it is possible and _extremely easy_ to 
 or in Anaconda, you can run :
 `pip install tensorflow==1.14 tk keras pillow numpy scikit-learn`
 
+## TKinter Video Tutorial
+You can watch TKinter video tutorial here [Youtube Link - TKinter video tutorial](https://youtu.be/PeMikTXzs1s)
+
 
 # Configurable options
 Since I wrote this in  a very short time (1 hour) on day-12 of isolation during COVID-19 outbreak (Movement Control Order), I didn't include much configurable options other than what provided from the default Tensorflow example distribution.
