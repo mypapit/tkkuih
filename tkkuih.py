@@ -133,8 +133,8 @@ def detectGate(graph,label_file,file_name):
   
 
   #Modify parameter ini untuk MobileNet 224
-  input_height = 299
-  input_width = 299
+  input_height = 224
+  input_width = 224
   
 
   #Modify parameter ini untuk MobileNet compact 192
