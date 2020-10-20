@@ -13,7 +13,8 @@ Trained using Tensorflow 1.14 with MobileNet 192
 ##See function "addOpenFile()" and  "detectGate" for documentation
 
 
-p/s: I wrote this under one hour during Movement Control Order in Alor Setar, Malaysia
+p/s: I wrote this under one hour during Movement Control Order (given by the 
+government to curb COVID-19 spread) in Alor Setar, Malaysia
 At the time of this writing (30 March 2020), I haven't venture past my residential 
 area since 19 March 2020.
 
