@@ -18,6 +18,9 @@ government to curb COVID-19 spread) in Alor Setar, Malaysia
 At the time of this writing (30 March 2020), I haven't venture past my residential 
 area since 19 March 2020.
 
+If you use this code in your works, please cite it as:
+Ismail, M. H. (2020, March 30). tkkuih - Demo application for combining TKInter with Tensorflow 1 Model. Github Repository. https://github.com/mypapit/tkkuih
+
 
 """
 
