@@ -6,6 +6,10 @@ In this demo, you can select a photo containing traditional Malay kuih (or cakes
 # Who is this app for
 This is a demo app to show students that it is possible and _extremely easy_ to create a GUI Desktop demonstration of Tensorflow-based application using TKinter. 
 
+# IMPORTANT NOTES
+If you use this code in your project, please remember to cite this code and website and credit the author:
+Ismail, M. H. (2020, March 30). tkkuih - Demo application for combining TKInter with Tensorflow 1 Model. Github Repository. https://github.com/mypapit/tkkuih
+
 
 # Requirements
 - Tensorflow 1.13+ or 1.14
